@@ -1,8 +1,6 @@
-```
-npm install
-npm run dev
-```
+## Installation
 
 ```
-open http://localhost:3000
+npm install
+docker-compose up -d
 ```
